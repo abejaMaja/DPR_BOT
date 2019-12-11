@@ -1,0 +1,336 @@
+Oś Priorytetowa 1. 'Komercjalizacja Wiedzy'
+Oś Priorytetowa 2 'Przedsiębiorstwa'
+Oś Priorytetowa 3 'Edukacja'
+Oś Priorytetowa 4' Kształcenie zawodowe'
+Oś Priorytetowa 5 'Zatrudnienie'
+Oś Priorytetowa 6 'Integracja'
+Oś Priorytetowa 7 'Zdrowie'
+Oś Priorytetowa 8 'Konwersja'
+Oś Priorytetowa 9 'Mobilność'
+Oś Priorytetowa 10 'Energia'
+Oś Priorytetowa 11. 'Środowisko'
+Oś Priorytetowa 12 'Pomoc techniczna'
+
+Działanie, cel szczegółowy, limity, cross-financing, pomoc publiczna, max.poz.dofinansowania
+
+Działanie 1.1. Ekspansja przez innowacje
+Działanie 1.2. Transfer wiedzy do gospodarki
+
+Działanie 2.1. Inwestycje podstawowe i profilowane – wsparcie pozadotacyjne
+Działanie 2.2. Inwestycje profilowane – wsparcie dotacyjne
+Działanie 2.3. Aktywność eksportowa
+Działanie 2.4. Otoczenie biznesu
+Działanie 2.5. Inwestorzy zewnętrzni
+
+Działanie 3.1. Edukacja przedszkolna
+Działanie 3.2. Edukacja ogólna
+Działanie 3.3. Edukacja zawodowa
+
+Działanie 4.1. Infrastruktura ponadgimnazjalnych szkół zawodowych
+Działanie 4.2. Infrastruktura uczelni prowadzących kształcenie o profilu praktycznym
+
+Działanie 5.1. Aktywizacja zawodowa osób bezrobotnych – projekty Powiatowych Urzędów Pracy.
+Działanie 5.2. Aktywizacja zawodowa
+Działanie 5.3. Opieka nad dziećmi do lat 3
+Działanie 5.4. Zdrowie na rynku pracy
+Działanie 5.5. Kształcenie ustawiczne
+Działanie 5.6. Adaptacyjność pracowników
+Działanie 5.7. Nowe mikroprzedsiębiorstwa
+
+Działanie 6.1. Aktywna integracja
+Działanie 6.2. Usługi społeczne
+Działanie 6.3. Ekonomia społeczna
+
+Działanie 7.1. Zasoby ochrony zdrowia
+Działanie 7.2. Systemy informatyczne i telemedyczne
+
+Działanie 8.1. Kompleksowe przedsięwzięcia rewitalizacyjne – wsparcie dotacyjne
+Działanie 8.2. Kompleksowe przedsięwzięcia rewitalizacyjne – wsparcie pozadotacyjne
+Działanie 8.3. Materialne i niematerialne dziedzictwo kulturowe
+Działanie 8.4. Wsparcie atrakcyjności walorów dziedzictwa przyrodniczego
+
+Działanie.9.1. Transport miejski
+Działanie 9.2. Regionalna infrastruktura kolejowa
+Działanie 9.3. Regionalna infrastruktura drogowa
+
+Działanie 10.1.Efektywność energetyczna – mechanizm ZIT – wsparcie dotacyjne
+Działanie 10.2. Efektywność energetyczna – wsparcie dotacyjne
+Działanie 10.3. Odnawialne źródła energii
+Działanie 10.4. Redukcja emisji
+Działanie 10.5. Efektywność energetyczna – wsparcie pozadotacyjne
+
+Działanie 11.1. Ograniczanie zagrożeń naturalnych
+Działanie 11.2. Gospodarka odpadami
+Działanie 11.3. Gospodarka wodno-ściekowa
+Działanie 11.4. Ochrona różnorodności biologicznej
+
+Typy projektów, działanie, typy beneficjentów
+1.1
+'prace badawczo rozwojowe'
+'tworzenie i rozwój infrastruktury B+R'
+'wsparcie zaawansowanych usług badawczych'
+'wsparcie inteligentnych specjalizacji'
+1.2
+'budowa 15 , przebudowa, rozbudowa infrastruktury badawczej 16 jednostek sfery B+R'
+2.1
+'instrument finansowy dłużny'
+'instrument finansowy gwarancyjny'
+2.2
+'inwestycje w Przedsiębiorstwie'
+2.3
+'organizowanie wyjazdowych i przyjazdowych wydarzeń gospodarczych, w tym misji oraz wizyt studyjnych o charakterze gospodarczym',
+'przedsięwzięcia promujące postawy proeksportowe przedsiębiorstw i zapewniające kompleksowe przygotowanie do rozpoczęcia (rozwijania) działalności na rynkach międzynarodowych',
+2.5
+'Zorganizowanie i prowadzenie systemu obsługi inwestorów i wsparcia inwestycji realizowane w formule projektu grantowego'
+'Uzbrojenie terenów inwestycyjnych (z wyłączeniem funkcji mieszkaniowych), w tym tworzenie stref przemysłowych, w ramach których dopuszcza się m.in. budowę hal produkcyjnych/magazynowych lub placów magazynowych'.
+11.1
+'budowa lub przebudowa urządzeń małej retencji (w tym zbiorników retencyjnych) oraz tworzenie innych form zwiększania retencyjności',
+'budowa, rozbudowa i przebudowa systemów odbioru, odprowadzania i oczyszczania wód opadowych i roztopowych',
+'budowa, rozbudowa i przebudowa indywidualnych systemów zatrzymywania i zagospodarowania wód opadowych i roztopowych w miejscu ich powstawania w ramach mini programów przygotowywanych przez gminy lub stowarzyszenia założone przez mieszkańców',
+'tworzenie i rozbudowa systemów monitoringu środowiska, w tym m.in. systemów informowania, ostrzegania i reagowania na zagrożenia w szczególności powodziowe',
+'zakup i modernizacja specjalistycznego wyposażenia jednostek ratownictwa',
+'zakup i instalacja systemów powiadamiania i alarmowania ludności oraz zintegrowanej łączności'.
+
+jednostki samorządu terytorialnego i ich jednostki organizacyjne,
+związki i stowarzyszenia jednostek samorządu terytorialnego oraz spółki z udziałem jednostek samorządu terytorialnego,
+podmioty wykonujące zadania jst/związku komunalnego,
+podmioty działające w oparciu o umowę o partnerstwie publiczno-prywatnym,
+jednostki administracji rządowej,
+organizacje pozarządowe,
+PGL Lasy Państwowe i jego jednostki organizacyjne,
+spółki wodne,
+straż pożarna,
+policja,
+Państwowe Gospodarstwo Wodne Wody Polskie.
+
+11.2
+'budowa lub rozbudowa systemów selektywnego zbierania odpadów komunalnych, w szczególności punkty selektywnego zbierania odpadów komunalnych, w tym wyposażone w segment napraw i ponownego wykorzystania oraz punkty zbierania zużytego sprzętu elektrycznego i elektronicznego pochodzącego z gospodarstw domowych,'
+'rozbudowa, przebudowa regionalnych instalacji do przetwarzania odpadów komunalnych, w tym takich ich elementów jak: instalacje mechaniczno-biologicznego przetwarzania odpadów komunalnych w tym przede wszystkim instalacje do przetwarzania selektywnie zbieranych bioodpadów,'
+'budowa instalacji do odzysku lub recyklingu poszczególnych rodzajów odpadów komunalnych lub stacji przeładunkowych odpadów,'
+'budowa, przebudowa i rozbudowa instalacji do zagospodarowywania odpadów ulegających biodegradacji wraz z systemami do selektywnego zbierania bioodpadów,'
+'budowa i rozbudowa instalacji do odzysku komunalnych osadów ściekowych na terenie RIPOK.'
+
+1) jednostki samorządu terytorialnego i ich jednostki organizacyjne,
+2) związki i stowarzyszenia jednostek samorządu terytorialnego oraz spółki z udziałem jednostek samorządu terytorialnego,
+3) podmioty wykonujące zadania jednostki samorządu terytorialnego/związku komunalnego,
+4) podmioty działające w oparciu o umowę o partnerstwie publiczno-prywatnym,
+5) organizacje pozarządowe,
+6) PGL Lasy Państwowe i jego jednostki organizacyjne,
+7) przedsiębiorcy.
+
+11.3
+'budowa, rozbudowa sieci kanalizacji zbiorczych,'
+'budowa, rozbudowa i przebudowa oczyszczalni ścieków,'
+'przebudowa sieci wodociągowych, wraz z budową, rozbudową lub przebudową innych niż sieci urządzeń wodociągowych (ujęcia wód powierzchniowych i podziemnych, studnie publiczne, urządzenia służące do magazynowania i uzdatniania wód, urządzenia regulujące ciśnienie wody),'
+'tworzenie i rozbudowa systemów monitoringu i oceny jakości wód powierzchniowych i podziemnych,'
+'budowa, rozbudowa infrastruktury zagospodarowania osadów ściekowych.'
+
+jednostki samorządu terytorialnego i ich jednostki organizacyjne,
+związki i stowarzyszenia jednostek samorządu terytorialnego oraz spółki z udziałem jednostek samorządu terytorialnego,
+podmioty wykonujące zadania jednostki samorządu terytorialnego /związku komunalnego,
+jednostki administracji rządowej,
+spółki wodne,
+jednostki naukowe,
+szkoły wyższe.
+
+11.4
+'finansowanie ochrony i restytucji różnorodności gatunkowej i siedliskowej'
+'kompleksowe przedsięwzięcia z zakresu ochrony, rewaloryzacji i zabezpieczania obszarów chronionych'
+kompleksowe przedsięwzięcia służące ochronie wód w zlewni, w szczególności jezior i ekosystemów od wód zależnych
+'tworzenie lub modernizacja obszarów biologicznie czynnych, w tym terenów zielonych, parków publicznych i elementów zielonej infrastruktury (takich jak np. zielone dachy, żyjące ściany)'
+'opracowanie planów ochrony dla parków krajobrazowych i rezerwatów przyrody, a także realizacji zapisanych w nich działań'
+'budowa, przebudowa i rozbudowa obiektów służących, jako centra edukacji ekologicznej'
+'przedsięwzięcia dotyczące edukacji ekologicznej oraz zwiększania świadomości na rzecz zrównoważonego rozwoju i przeciwdziałania zmianom klimatu'
+
+'jednostki samorządu terytorialnego i ich jednostki organizacyjne',
+'związki i stowarzyszenia jednostek samorządu terytorialnego oraz spółki z udziałem jednostek samorządu terytorialnego',
+'podmioty wykonujące zadania jednostki samorządu terytorialnego /związku komunalnego',
+'inne jednostki sektora finansów publicznych posiadające osobowość prawną',
+'podmioty działające w oparciu o umowę o partnerstwie publiczno-prywatnym',
+'jednostki administracji rządowej',
+'organizacje pozarządowe',
+'kościoły i związki wyznaniowe',
+'PGL Lasy Państwowe i jego jednostki organizacyjne',
+'instytucje edukacyjne',
+'szkoły wyższe',
+'jednostki naukowe',
+'spółki wodne',
+'przedsiębiorcy'
+
+
+
+
+Działanie, pytania, odpowiedzi
+11.1
+Pytanie:
+Ograniczanie zagrożeń naturalnych RPO WP 2014-2020 proszę o wyjaśnienie kwestii czy budowa remizy strażackiej może stanowić koszt kwalifikowalny?
+Odpowiedź:
+W ramach Działania 11.1. Ograniczanie zagrożeń naturalnych RPO WP 2014-2020 budowa remizy strażackiej stanowi koszt niekwalifikowalny. Szczegółowy katalog wydatków kwalifikowalnych i niekwalifikowalnych znajduje się w Wytycznych dotyczących kwalifikowalności wydatków w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020 stanowiących Załącznik nr 4 do Zasad wdrażania RPO WP. Zgodnie z katalogiem wydatków kwalifikowalnych w ww. Wytycznych, wsparcie jest dostępne w zakresie zakupu i modernizacji specjalistycznego wyposażenia jednostek ratownictwa, z uwzględnieniem straży pożarnej, w tym przebudowy i remontu obiektów. Ponadto zakup środków transportu oraz pojazdów specjalistycznych stanowi koszt niekwalifikowalny.
+
+Dodatkowo informujemy, iż zgodnie z celami Działania 11.1. RPO WP 2014-2020 wsparcie jest głównie skierowane na przedsięwzięcia przyczyniające się do zwiększania retencji wody i minimalizacji skutków ekstremalnych zjawisk klimatycznych takich jak nawalne deszcze czy susza. Na przedsięwzięcia z zakresu systemów ratownictwa, usuwania skutków katastrof spowodowanych czynnikami naturalnymi oraz doposażenia jednostek ratowniczych przeznaczone zostało nie więcej niż 10% alokacji Działania zgodnie z zapisami Szczegółowego Opisu Osi Priorytetowych RPO WP 2014-2020, czyli 13 187 378 PLN. Ponadto na etapie oceny strategicznej zostanie oceniony stopień realizacji przez projekt celów, założeń i preferencji określonych dla Działania 11.1 wynikających bezpośrednio z treści RPO WP 2014-2020 oraz zapisów Szczegółowego Opisu Osi Priorytetowych RPO WP 2014-2020 – część główna oraz kryteria wyboru projektów.
+
+11.2
+Pytanie:
+Gospodarka odpadami RPO WP 2014-2020 proszę o wyjaśnienie kwestii czy zakup pojemników dla mieszkańców gminy może stanowić koszt kwalifikowalny?
+Odpowiedź:
+W ramach Działania 11.2. Gospodarka odpadami RPO WP 2014-2020 zakup pojemników dla mieszkańców gminy, w tym worków, niebędących wyposażeniem punktu selektywnego zbierania odpadów komunalnych (PSZOK) stanowi koszt niekwalifikowalny. Szczegółowy katalog wydatków kwalifikowalnych znajduje się w Wytycznych dotyczących kwalifikowalności wydatków w ramach Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020 stanowiących Załącznik nr 4 do Zasad wdrażania RPO WP. Przy najbliższej aktualizacji ww. Wytycznych zostanie doprecyzowany katalog wydatków niekwalifikowalnych w zakresie zakupu pojemników, w tym worków, niebędących wyposażeniem punktu selektywnego zbierania odpadów komunalnych (PSZOK). Dodatkowo informujemy, iż wsparcie na zakup pojemników i kompostowników jako uzupełnienie systemu, tam gdzie już funkcjonuje PSZOK wybudowany zgodnie z wymaganiami NFOŚiGW, jest dostępne ze środków NFOŚiGW (patrz na dole strony rodzaje przedsięwzięć pkt. 2):
+http://www.nfosigw.gov.pl/oferta-finansowania/srodki-krajowe/programy-priorytetowe/racjonalna-gospodarka-odpadami/nabor-wnioskow-2016-dla-czesci-1/
+
+Pytanie:
+Czy dofinansowanie mogą uzyskać projekty niewpisane do planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi, który będzie stanowił załącznik do planu gospodarki odpadami dla województwa pomorskiego?
+Odpowiedź:
+Finansowane będą wyłącznie projekty wynikające z planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi opracowanego przez samorząd województwa, który będzie stanowił załącznik do planu gospodarki odpadami dla województwa pomorskiego zgodnie z zapisami Szczegółowego Opisu Osi Priorytetowych Regionalnego Programu Operacyjnego Województwa Pomorskiego na lata 2014-2020 – część główna oraz kryteria wyboru projektów.
+
+11.3
+Pytanie:
+Czy Gmina może ubiegać się o dofinansowanie operacji na nieruchomości stanowiącej jej własność, jednakże zlokalizowanej na terenie poza Województwem Pomorskim?
+Odpowiedź:
+Zgodnie z zapisami RPO WP 2014-2020 w ramach tego programu istnieje możliwość dofinansowania projektów realizowanych jedynie na terenie województwa pomorskiego. RPO WP 2014-2020 jest jednym z narzędzi realizacji Strategii Rozwoju Województwa Pomorskiego 2020, której zakres oraz logika interwencji zostały zdeterminowane zapisami sześciu Regionalnych Programów Strategicznych, określających sposób realizacji polityk rozwojowych Samorządu Województwa Pomorskiego do 2020 r.  Na etapie oceny formalnej wniosku o dofinansowanie weryfikacji podlega między innymi zgodność obszaru realizacji projektu z zapisami ww. dokumentów.
+
+11.4
+Jak jest minimalny wkład własny beneficjenta? --> 5%
+
+
+
+INSERT INTO TypyProjektow VALUES
+  (1.1, 'prace badawczo rozwojowe'),
+  (1.1, 'tworzenie i rozwój infrastruktury B+R'),
+  (1.1, 'wsparcie zaawansowanych usług badawczych'),
+  (1.1, 'wsparcie inteligentnych specjalizacji'),
+  (1.2, 'budowa 15 , przebudowa, rozbudowa infrastruktury badawczej 16 jednostek sfery B+R'),
+  (2.1, 'instrument finansowy dłużny'),
+  (2.1, 'instrument finansowy gwarancyjny'),
+  (2.2, 'inwestycje w Przedsiębiorstwie'),
+  (2.3, 'organizowanie wyjazdowych i przyjazdowych wydarzeń gospodarczych, w tym misji oraz wizyt studyjnych o charakterze gospodarczym'),
+  (2.3, 'przedsięwzięcia promujące postawy proeksportowe przedsiębiorstw i zapewniające kompleksowe przygotowanie do rozpoczęcia (rozwijania) działalności na rynkach międzynarodowych'),
+  (2.4, 'bd'),
+  (2.5, 'Zorganizowanie i prowadzenie systemu obsługi inwestorów i wsparcia inwestycji realizowane w formule projektu grantowego'),
+  (2.5, 'Uzbrojenie terenów inwestycyjnych (z wyłączeniem funkcji mieszkaniowych), w tym tworzenie stref przemysłowych, w ramach których dopuszcza się m.in. budowę hal produkcyjnych/magazynowych lub placów magazynowych'),
+  (3.1, 'Edukacja przedszkolna'),
+  (3.2, 'edukacja ogólna'),
+  (3.3, 'edukacja zawodowa'),
+  (4.1, 'bd'),
+  (4.2, 'bd'),
+  (5.1, 'bd'),
+  (5.2, 'bd'),
+  (5.3, 'bd'),
+  (5.4, 'bd'),
+  (5.5, 'bd'),
+  (11.1, 'budowa lub przebudowa urządzeń małej retencji (w tym zbiorników retencyjnych) oraz tworzenie innych form zwiększania retencyjności'),
+  (11.1, 'budowa, rozbudowa i przebudowa systemów odbioru, odprowadzania i oczyszczania wód opadowych i roztopowych'),
+  (11.1, 'budowa, rozbudowa i przebudowa indywidualnych systemów zatrzymywania i zagospodarowania wód opadowych i roztopowych w miejscu ich powstawania w ramach mini programów przygotowywanych przez gminy lub stowarzyszenia założone przez mieszkańców'),
+  (11.1, 'tworzenie i rozbudowa systemów monitoringu środowiska, w tym m.in. systemów informowania, ostrzegania i reagowania na zagrożenia w szczególności powodziowe'),
+  (11.1, 'zakup i modernizacja specjalistycznego wyposażenia jednostek ratownictwa'),
+  (11.1, 'zakup i instalacja systemów powiadamiania i alarmowania ludności oraz zintegrowanej łączności'),
+  (11.2, 'budowa lub rozbudowa systemów selektywnego zbierania odpadów komunalnych, w szczególności punkty selektywnego zbierania odpadów komunalnych, w tym wyposażone w segment napraw i ponownego wykorzystania oraz punkty zbierania zużytego sprzętu elektrycznego i elektronicznego pochodzącego z gospodarstw domowych'),
+  (11.2, 'rozbudowa, przebudowa regionalnych instalacji do przetwarzania odpadów komunalnych, w tym takich ich elementów jak: instalacje mechaniczno-biologicznego przetwarzania odpadów komunalnych w tym przede wszystkim instalacje do przetwarzania selektywnie zbieranych bioodpadów,'),
+  (11.2, 'budowa instalacji do odzysku lub recyklingu poszczególnych rodzajów odpadów komunalnych lub stacji przeładunkowych odpadów,'),
+  (11.2, 'budowa, przebudowa i rozbudowa instalacji do zagospodarowywania odpadów ulegających biodegradacji wraz z systemami do selektywnego zbierania bioodpadów,'),
+  (11.2, 'budowa i rozbudowa instalacji do odzysku komunalnych osadów ściekowych na terenie RIPOK.'),
+  (11.3, 'budowa, rozbudowa sieci kanalizacji zbiorczych,'),
+  (11.3, 'budowa, rozbudowa i przebudowa oczyszczalni ścieków,'),
+  (11.3, 'przebudowa sieci wodociągowych, wraz z budową, rozbudową lub przebudową innych niż sieci urządzeń wodociągowych (ujęcia wód powierzchniowych i podziemnych, studnie publiczne, urządzenia służące do magazynowania i uzdatniania wód, urządzenia regulujące ciśnienie wody),'),
+  (11.3, 'tworzenie i rozbudowa systemów monitoringu i oceny jakości wód powierzchniowych i podziemnych,'),
+  (11.3, 'budowa, rozbudowa infrastruktury zagospodarowania osadów ściekowych.'),
+  (11.4, 'finansowanie ochrony i restytucji różnorodności gatunkowej i siedliskowej'),
+  (11.4, 'kompleksowe przedsięwzięcia z zakresu ochrony, rewaloryzacji i zabezpieczania obszarów chronionych'),
+  (11.4, 'kompleksowe przedsięwzięcia służące ochronie wód w zlewni, w szczególności jezior i ekosystemów od wód zależnych'),
+  (11.4, 'tworzenie lub modernizacja obszarów biologicznie czynnych, w tym terenów zielonych, parków publicznych i elementów zielonej infrastruktury (takich jak np. zielone dachy, żyjące ściany)'),
+  (11.4, 'opracowanie planów ochrony dla parków krajobrazowych i rezerwatów przyrody, a także realizacji zapisanych w nich działań'),
+  (11.4, 'budowa, przebudowa i rozbudowa obiektów służących, jako centra edukacji ekologicznej'),
+  (11.4, 'przedsięwzięcia dotyczące edukacji ekologicznej oraz zwiększania świadomości na rzecz zrównoważonego rozwoju i przeciwdziałania zmianom klimatu');
+
+
+  INSERT INTO klienci VALUES
+    (11.1, 'Ograniczanie zagrożeń naturalnych RPO WP 2014-2020 proszę o wyjaśnienie kwestii czy budowa remizy strażackiej może stanowić koszt kwalifikowalny?', 'budowa remizy strażackiej stanowi koszt niekwalifikowalny'),
+    (11.2, 'Gospodarka odpadami RPO WP 2014-2020 proszę o wyjaśnienie kwestii czy zakup pojemników dla mieszkańców gminy może stanowić koszt kwalifikowalny?', 'zakup pojemników dla mieszkańców gminy, w tym worków, niebędących wyposażeniem punktu selektywnego zbierania odpadów komunalnych (PSZOK) stanowi koszt niekwalifikowalny'),
+    (11.2, 'Czy dofinansowanie mogą uzyskać projekty niewpisane do planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi?', 'Finansowane będą wyłącznie projekty wynikające z planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi'),
+    (11.3, 'Czy Gmina może ubiegać się o dofinansowanie operacji na nieruchomości stanowiącej jej własność, jednakże zlokalizowanej na terenie poza Województwem Pomorskim?', 'możliwość dofinansowania projektów realizowanych jedynie na terenie województwa pomorskiego');
+
+1.1 ('85%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+1.2 ('85%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+2.1('95%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+2.2('maksymalne dofinansowanie 2 mln PLN','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+2.3('85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'NIE', 'TAK'),
+2.4('85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'NIE', 'TAK'),
+2.5('85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'TAK', 'TAK'),
+3.1('85%','Minimalna wartość projektu wynosi 50 tys. PLN.', 'TAK', 'NIE'),
+3.2('95%','Minimalna wartość projektu wynosi 100 tys. PLN.', 'TAK', 'NIE'),
+3.3('95%','Minimalna wartość projektu wynosi 100 tys. PLN.', 'TAK', 'NIE'),
+4.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+4.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.3('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.4('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.5('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.6('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+5.7('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+6.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+6.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+6.3('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+7.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+7.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+8.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+8.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+8.3('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+8.4('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+9.1('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+9.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+9.3('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+10.('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+10.2('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+10.3('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+10.4('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+10.5('85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+11.1('85%','projekty, które znajdują się na listach nr 1 będących załącznikami do Masterplanów dla dorzeczy Odry i Wisły.', 'TAK', 'NIE'),
+11.2('85%','Finansowane będą wyłącznie projekty wynikające z planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi opracowanego przez samorząd województwa', 'TAK', 'TAK'),
+11.3('85%','projekty wynikające z Krajowego Programu Oczyszczania Ścieków Komunalnych', 'NIE', 'NIE'),
+11.4('85%','projekty, które będą utworzone w partnerstwie z co najmniej jednym z następujących podmiotów: Pomorski Zespół Parków Krajobrazowych, WFOŚiGW w Gdańsku, szkoły wyższe.', 'TAK', 'TAK'),
+
+INSERT INTO Dzialanie VALUES
+      (1, '1.1', 'Ekspansja przez innowacje', '85%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+      (1, '1.2', 'Transfer wiedzy do gospodarki', '85%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+      (2, '2.1', 'Inwestycje podstawowe i profilowane – wsparcie pozadotacyjne', '95%','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+      (2, '2.2', 'Inwestycje profilowane – wsparcie dotacyjne', 'maksymalne dofinansowanie 2 mln PLN','Wsparcie mogą otrzymać wyłącznie projekty wpisujące się w obszary Inteligentnych Specjalizacji Pomorza', 'NIE', 'TAK'),
+      (2, '2.3', 'Aktywność eksportowa', '85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'NIE', 'TAK'),
+      (2, '2.4', 'Otoczenie biznesu', '85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'NIE', 'TAK'),
+      (2, '2.5', 'Inwestorzy zewnętrzni', '85%','Maksymalna wartość dofinansowania na poziomie grantobiorcy nie może przekraczać 200 tys. EUR.', 'TAK', 'TAK'),
+      (3, '3.1', 'Edukacja przedszkolna', '85%','Minimalna wartość projektu wynosi 50 tys. PLN.', 'TAK', 'NIE'),
+      (3, '3.2', 'Edukacja ogólna', '95%','Minimalna wartość projektu wynosi 100 tys. PLN.', 'TAK', 'NIE'),
+      (3, '3.3', 'Edukacja zawodowa', '95%','Minimalna wartość projektu wynosi 100 tys. PLN.', 'TAK', 'NIE'),
+      (4, '4.1', 'Infrastruktura ponadgimnazjalnych szkół zawodowych', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (4, '4.2', 'Infrastruktura ponadgimnazjalnych szkół zawodowych', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.1', 'Aktywizacja zawodowa osób bezrobotnych – projekty Powiatowych Urzędów Pracy', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.2', 'Aktywizacja zawodowa', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.3', 'Opieka nad dziećmi do lat 3', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.4', 'Zdrowie na rynku pracy', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.5', 'Kształcenie ustawiczne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.6', 'Adaptacyjność pracowników', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (5, '5.7', 'Nowe mikroprzedsiębiorstwa', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (6, '6.1', 'Aktywna integracja', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (6, '6.2', 'Usługi społeczne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (6, '6.3', 'Ekonomia społeczna', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (7, '7.1', 'Zasoby ochrony zdrowia', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (7, '7.2', 'Systemy informatyczne i telemedyczne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (8, '8.1', 'Kompleksowe przedsięwzięcia rewitalizacyjne, wsparcie dotacyjne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (8, '8.2', 'Kompleksowe przedsięwzięcia rewitalizacyjne, wsparcie pozadotacyjne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (8, '8.3', 'Materialne i niematerialne dziedzictwo kulturowe', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (8, '8.4', 'Wsparcie atrakcyjności walorów dziedzictwa przyrodniczego', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (9, '9.1', 'Transport miejski', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (9, '9.2', 'Regionalna infrastruktura kolejowa', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (9, '9.3', 'Regionalna infrastruktura drogowa', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (10, '10.1', 'Efektywność energetyczna – mechanizm ZIT – wsparcie dotacyjne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (10, '10.2', 'Efektywność energetyczna – wsparcie dotacyjne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (10, '10.3', 'Odnawialne źródła energii', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (10, '10.4', 'Redukcja emisji', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (10, '10.5', 'Efektywność energetyczna – wsparcie pozadotacyjne', '85%','Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP', 'Szczegółowe informacje znajdują się w SZOOP'),
+      (11, '11.1', 'Ograniczanie zagrożeń naturalnych', '85%','projekty, które znajdują się na listach nr 1 będących załącznikami do Masterplanów dla dorzeczy Odry i Wisły.', 'TAK', 'NIE'),
+      (11, '11.2', 'Gospodarka odpadami', '85%','Finansowane będą wyłącznie projekty wynikające z planu inwestycyjnego dotyczącego gospodarki odpadami komunalnymi opracowanego przez samorząd województwa', 'TAK', 'TAK'),
+      (11, '11.3', 'Gospodarka wodno-ściekowa', '85%','projekty wynikające z Krajowego Programu Oczyszczania Ścieków Komunalnych', 'NIE', 'NIE'),
+      (11, '11.4', 'Ochrona różnorodności biologicznej', '85%','projekty, które będą utworzone w partnerstwie z co najmniej jednym z następujących podmiotów: Pomorski Zespół Parków Krajobrazowych, WFOŚiGW w Gdańsku, szkoły wyższe.', 'TAK', 'TAK');
+
+
+
+
+    
