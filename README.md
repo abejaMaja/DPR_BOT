@@ -1,2 +1,2 @@
 # DPR_BOT
-bot to help to understand projects refunded from EU funds
+bot to help understand projects refunded from EU funds. It uses DIALOGFLOW engine
